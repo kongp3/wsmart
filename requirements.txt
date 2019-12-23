@@ -4,7 +4,7 @@ prettytable
 Flask==1.0.2
 whenpy
 oss2
-requests==2.18.4
+requests==2.20.0
 rsa==3.4.2
 nose==1.3.7
 dataset
