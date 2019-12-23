@@ -1,0 +1,6 @@
+config:
+    - wsmart/config/__init__.py
+supervisord:
+    group: wsmart
+env:
+   dir: venv
