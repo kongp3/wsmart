@@ -1,7 +1,7 @@
 xlrd
 xlwt
 prettytable
-Flask==1.0.2
+Flask==2.3.2
 whenpy
 oss2
 requests==2.18.4
